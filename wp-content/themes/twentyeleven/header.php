@@ -69,6 +69,7 @@
 
 <body <?php body_class(); ?>>
 test
+test2
 <div id="page" class="hfeed">
 	<header id="branding" role="banner">
 			<hgroup>
